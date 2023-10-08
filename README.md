@@ -1,20 +1,15 @@
 # spotify
 
-#ScreenShots
+# ScreenShots
 
 
 
 
-![Untitled-1](https://github.com/Mahmoud20-00491/spotify/assets/121718282/6e59f70f-238e-443b-b898-94994b4ef747)
-
-![Untitled-2](https://github.com/Mahmoud20-00491/spotify/assets/121718282/38f6c05b-233c-48dd-a429-2c9824c67667)
-
-![Untitled-3](https://github.com/Mahmoud20-00491/spotify/assets/121718282/7761d374-6bd6-4daa-92ae-dfd5d2600f91)
-![Untitled-4](https://github.com/Mahmoud20-00491/spotif
-
-![Untitled-5](https://github.com/Mahmoud20-00491/spotify/assets/121718282/89307340-f937-4c3c-abae-d7261b75fe0d)
-y/assets/121718282/05c3a6fd-9937-4119-b717-05e86d7386e7)
-
+![Untitled-1](https://github.com/Mahmoud20-00491/spotify/assets/121718282/89756f6f-8a66-4616-ab99-7ee8c8b49b22)
+![Untitled-2](https://github.com/Mahmoud20-00491/spotify/assets/121718282/9caac4d6-7504-4ebd-b027-f287d0fcb374)
+![Untitled-3](https://github.com/Mahmoud20-00491/spotify/assets/121718282/e05ed0f1-ea37-41d8-a964-48727c67751c)
+![Untitled-4](https://github.com/Mahmoud20-00491/spotify/assets/121718282/2b86b64a-0d9e-4fbf-9cde-ba5c80147ae1)
+![Untitled-5](https://github.com/Mahmoud20-00491/spotify/assets/121718282/797df93c-5fbf-45da-bea0-5462b01c3413)
 
 A new Flutter project.
 
